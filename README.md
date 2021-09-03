@@ -1,6 +1,6 @@
 ### Here is what im working on 👋
 
-Here are some ideas to get you started:
+Here I told the details about myself :
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Node js / express (advance)
