@@ -3,7 +3,7 @@
 Here I told the details about myself :
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning Node js / express (advance)
+- 🌱 I’m currently learning Node js / express
 - 👯 I’m looking to collaborate on react/express
 - 🤔 I’m thinking for more creative design and development
 - 💬 Ask me about javascript,react/nodejs/express
