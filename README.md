@@ -2,7 +2,7 @@
 
 Here I told the details about myself :
 
-- 🔭 I’m currently working on web web designing and wordpress design
+- 🔭 I’m currently working on web web design and wordpress design
 - 🌱 I’m currently learning plugin development
 - 👯 I’m looking to collaborate on reactJs/NextJs/wordpress/webflow/webador/framer/squarespace/
 - 🤔 I’m thinking for more creative design 
